@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>jenkinsdemo777</finalName>
+    <finalName>learning project</finalName>
   </build>
 </project>
